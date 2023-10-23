@@ -6,6 +6,12 @@ import image4 from './assets/images/4.jpg'
 import image5 from './assets/images/5.jpg'
 import image6 from './assets/images/6.jpg'
 import image7 from './assets/images/7.jpg'
+import image8 from './assets/images/8.jpg'
+import image9 from './assets/images/9.jpg'
+import image10 from './assets/images/10.jpg'
+import image11 from './assets/images/11.jpg'
+import image12 from './assets/images/12.jpg'
+import image13 from './assets/images/13.jpg'
 import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
 import { ChangeEvent, useRef, useState } from 'react'
 import { Slide } from 'react-slideshow-image';
@@ -25,6 +31,18 @@ const images = [{
   url: image6,
 }, {
   url: image7,
+}, {
+  url: image8,
+}, {
+  url: image9,
+}, {
+  url: image10,
+}, {
+  url: image11,
+}, {
+  url: image12,
+}, {
+  url: image13,
 }]
 
 const properties = {
