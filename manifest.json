@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "ouo.link converter",
+    "version": "1.0.0",
+    "action": { "default_popup": "index.html" },
+    "host_permissions": [
+      "https://mrcong-convert-ouo-io-link.onrender.com/*"
+    ],
+    "icons": {
+      "16": "src/assets/icons/coding16.png",
+      "32": "src/assets/icons/coding32.png",
+      "48": "src/assets/icons/coding48.png",
+      "128": "src/assets/icons/coding128.png"
+    }
+  }
